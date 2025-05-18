@@ -1,4 +1,4 @@
-# Unity Project: Intelligent Chatbot with Sentiment Analysis
+# Unity Project: chatbot with sentimental analysis for a game in unity
 
 ## Overview
 This Unity project features an intelligent chatbot with sentiment analysis capabilities, designed to enhance in-game interaction. The chatbot utilizes natural language processing to understand and respond to player inputs effectively.
@@ -45,6 +45,5 @@ Contributions are welcome! Follow these steps:
 4. Create a pull request to merge your changes into the main branch.
 
 
-## Contact
-For questions or support, contact [Vineeth8927](https://github.com/Vineeth8927).
+
 
